@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying in **STI College**
 
-- 🌱 I’m currently learning **Node.js, and Express.js (A Node.js Framework)**
+- 🌱 I’m currently learning **new things**
 
 - 💻 I’m currently taking **Bachelor of Science in Information Technology**
 
