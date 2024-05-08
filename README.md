@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=25&width=600&lines=Hi+👋,+I'm+Sieg;An+Aspiring+Software+Developer;Information+Technology+Student;)](https://git.io/typing-svg)
 
+[![Visits](https://komarev.com/ghpvc/?username=fearlesspsyche&color=29ABE9&style=flat&label=Profile+Views)](https://github.com/fearlesspsyche)
+
 - 🔭 I’m currently studying in **STI College**
 
 - 🌱 I’m currently learning **new things**
