@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sieg</h1>
-<h3 align="center">An aspiring Software Developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FFFFFF&size=25&width=600&lines=Hi+👋,+I'm+Sieg;An+Aspiring+Software+Developer;Information+Technology+Student;)](https://git.io/typing-svg)
 
 - 🔭 I’m currently studying in **STI College**
 
