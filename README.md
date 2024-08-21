@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I enjoy things I'm passionate of**
 
-- tired af
+- tired af/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
