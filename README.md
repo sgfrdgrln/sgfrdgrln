@@ -16,7 +16,7 @@
 <p align="left">
   <a href="https://github.com/sgfrdgrln"><img src="https://skillicons.dev/icons?i=instagram"/></a>
   <a href="https://discord.com/users/sieg#7070"><img src="https://skillicons.dev/icons?i=discord"/></a>
-  <a href="https://www.linkedin.com/in/sgfrdgrln-3ab0252bb/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/sgfrdgrln"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools-OS⚒️</h2>
