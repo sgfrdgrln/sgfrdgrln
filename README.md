@@ -2,7 +2,7 @@
 
 [![Visits](https://komarev.com/ghpvc/?username=sgfrdgrln&color=03C988&style=flat&label=Profile+Views)](https://github.com/sgfrdgrln)
 
-- 🔭 I’m currently studying in **STI College**
+- 🔭 I’m currently studying in **STI College.**
 
 - 🌱 I’m currently learning **new things**
 
