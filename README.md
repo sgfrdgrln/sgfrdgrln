@@ -27,7 +27,7 @@
 </div>
 
 <br/>
-<hr/>.
+<hr/>
 
 <p align="center">
   <a href="https://github.com/sgfrdgrln">
