@@ -28,7 +28,7 @@
 
 <br/>
 <hr/>
-.
+
 <p align="center">
   <a href="https://github.com/sgfrdgrln">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sgfrdgrln&theme=tokyonight&border=03C988&background=0D1117" alt="sieg's GitHub streak"/>
