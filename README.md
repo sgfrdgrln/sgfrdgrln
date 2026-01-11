@@ -19,7 +19,7 @@
   <a href="https://discord.com/users/sieg#7070"><img src="https://skillicons.dev/icons?i=discord"/></a>
   <a href="https://www.linkedin.com/in/sgfrdgrln"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
-.
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools-OS⚒️</h2>
 <br/>
 <div align="center">
