@@ -11,7 +11,7 @@
 - 🤖 I joined Github on **Feb 04, 2022**
 
 - ⚡ Fun fact **I enjoy things I'm passionate of**
-
+.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/sgfrdgrln"><img src="https://skillicons.dev/icons?i=instagram"/></a>
